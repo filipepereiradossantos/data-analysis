@@ -58,15 +58,12 @@ Baixe e instale o Python através do site oficial:
 
 https://www.python.org/downloads/
 
-2. Clone o repositório
 
-git clone https://github.com/SEU-USUARIO/data-analysis.git
-
-3. Acesse a pasta do projeto
+2. Acesse a pasta do projeto
 
 cd data-analysis
 
-4. Execute o programa
+3. Execute o programa
 
 python main.py
 
