@@ -1,84 +1,86 @@
-📊 Análise de Dados
+# 📊 Análise de Dados com Python
 
-Repositório desenvolvido para a disciplina/estudos de Análise de Dados. O projeto reúne as atividades e práticas realizadas durante o desenvolvimento, com foco na utilização de Python para trabalhar com dados e obter informações a partir deles.
+Repositório desenvolvido para reunir atividades práticas e estudos da disciplina de **Análise de Dados**, utilizando Python como ferramenta para manipulação, organização e interpretação de informações.
 
-Este projeto foi desenvolvido com finalidade acadêmica e de aprendizado, registrando os conhecimentos e práticas adquiridos durante os estudos de Análise de Dados.
+O projeto tem finalidade acadêmica e de aprendizado, registrando os conhecimentos desenvolvidos ao longo das atividades e servindo como referência para consultas futuras.
 
-🛠️ Tecnologias
+## 🛠️ Tecnologias e ferramentas
 
-Python
+- **Python** — linguagem utilizada no desenvolvimento das atividades.
+- **Análise de Dados** — conceitos de organização e interpretação de informações.
+- **Estruturas de dados e recursos da linguagem Python** — aplicação dos fundamentos de programação.
 
-Análise de Dados
+## 📚 Conteúdos estudados
 
-Estruturas e recursos da linguagem Python
+| Etapa | Tema |
+|---|---|
+| 01 | Introdução à Análise de Dados |
+| 02 | Manipulação e organização de dados |
+| 03 | Desenvolvimento de atividades práticas em Python |
+| 04 | Análise e interpretação de dados |
 
-📖 Conteúdos estudados
+## 🧩 Conhecimentos desenvolvidos
 
-Etapa
+- Desenvolver programas utilizando Python.
+- Trabalhar com dados por meio dos recursos da linguagem.
+- Organizar informações para facilitar sua análise.
+- Aplicar conceitos de programação na resolução de problemas.
+- Interpretar informações obtidas a partir dos dados.
+- Compreender etapas do processo de análise de dados.
 
-Tema
+## 📂 Estrutura do projeto
 
-01 - Introdução à Análise de Dados
-
-02 - Manipulação e organização de dados
-
-03 - Desenvolvimento das atividades em Python
-
-04 - Análise e interpretação dos dados
-
-🧩 O que aprendi
-
-Desenvolver programas utilizando Python
-
-Trabalhar com dados utilizando recursos da linguagem
-
-Organizar informações para análise
-
-Aplicar conceitos de programação na resolução de problemas
-
-Interpretar informações obtidas a partir dos dados
-
-Desenvolver uma visão mais prática sobre o processo de análise de dados
-
-📂 Estrutura do projeto
-
+```text
 data-analysis/
 ├── main.py
 └── README.md
+```
 
-🖥️ Ambiente de execução
+O arquivo `main.py` contém o programa principal, enquanto o `README.md` apresenta a documentação do projeto.
 
-O projeto foi desenvolvido utilizando Python e pode ser executado em um ambiente que possua o interpretador Python instalado.
+## 🖥️ Ambiente de execução
 
-🚀 Executar em outra máquina
+Para executar as atividades, é necessário ter o **Python 3** instalado e disponível no terminal.
 
-1. Instale o Python
+### ▶️ Como executar
 
-Baixe e instale o Python através do site oficial:
+**1. Instale o Python**
 
-https://www.python.org/downloads/
+Acesse o site oficial para baixar e instalar o interpretador:
 
+[https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-2. Acesse a pasta do projeto
+**2. Acesse a pasta do projeto**
 
+```bash
 cd data-analysis
+```
 
-3. Execute o programa
+**3. Execute o programa**
 
+No Windows:
+
+```bash
 python main.py
+```
 
-Dependendo do ambiente utilizado, o comando python3 main.py também pode ser necessário.
+Em ambientes Linux ou macOS, se necessário:
 
-🎯 Objetivo
+```bash
+python3 main.py
+```
 
-O objetivo deste projeto é colocar em prática os conhecimentos relacionados à Análise de Dados, utilizando Python para trabalhar com informações e desenvolver soluções baseadas em dados.
+> Os comandos podem variar de acordo com a instalação e a configuração do ambiente.
 
-📜 Licença e créditos
+## 🎯 Objetivo do projeto
 
-Projeto desenvolvido para fins acadêmicos e de aprendizado.
+Aplicar os conhecimentos de programação e Análise de Dados por meio de atividades práticas em Python, desenvolvendo habilidades de organização, manipulação e interpretação de informações.
 
-Código desenvolvido pelo autor deste repositório.
+## 📜 Créditos
 
-👤 Autor
+Projeto desenvolvido para fins acadêmicos e de aprendizado, em colaboração entre os autores.
 
-Filipe Pereira dos Santos e Fernando Gonçalves dos Santos
+## 👥 Autores
+
+- **Filipe Pereira dos Santos**
+- **Fernando Gonçalves dos Santos**
